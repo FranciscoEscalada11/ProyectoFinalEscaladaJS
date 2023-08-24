@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nombre": "J5 blanco/violeta",
+        "precio": 500,
+        "img": "https://nikearprod.vtexassets.com/arquivos/ids/699297-800-800?v=638229666812470000&width=800&height=800&aspect=true",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "J3 blanco/violeta",
+        "precio": 200,
+        "img": "https://nikearprod.vtexassets.com/arquivos/ids/698254-800-800?v=638229571158970000&width=800&height=800&aspect=true",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "J6 negro",
+        "precio": 600,
+        "img": "https://nikearprod.vtexassets.com/arquivos/ids/455344-800-800?v=638149324365900000&width=800&height=800&aspect=true",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "J11 blanco/rojo",
+        "precio": 200,
+        "img": "https://nikearprod.vtexassets.com/arquivos/ids/451493-800-800?v=638149271457270000&width=800&height=800&aspect=true",
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "nombre": "J2 blanco/rojo",
+        "precio": 80,
+        "img": "https://nikearprod.vtexassets.com/arquivos/ids/455323-800-800?v=638149324044570000&width=800&height=800&aspect=true",
+        "cantidad": 1
+    },
+    {
+        "id": 6,
+        "nombre": "J7 blanco/rojo",
+        "precio": 120,
+        "img": "https://nikearprod.vtexassets.com/arquivos/ids/451599-800-800?v=638149272753330000&width=800&height=800&aspect=true",
+        "cantidad": 1
+    },
+    {
+        "id": 7,
+        "nombre": "J6 negro/amarillo",
+        "precio": 200,
+        "img": "https://nikearprod.vtexassets.com/arquivos/ids/701107-800-800?v=638233823080770000&width=800&height=800&aspect=true",
+        "cantidad": 1
+    },
+    {
+        "id": 8,
+        "nombre": "j5 celeste",
+        "precio": 500,
+        "img": "https://nikearprod.vtexassets.com/arquivos/ids/532358-800-800?v=638161392057800000&width=800&height=800&aspect=true",
+        "cantidad": 1
+    }
+]
